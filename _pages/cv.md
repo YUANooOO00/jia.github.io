@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Phil. in Computational Media and Arts, Hong Kong University of Science and Technology (Guangzhou), 2025 (expected)
+* B.A. in Art and Technology, China Academy of Art, 2023
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Assistant
+  * MC2 Lab, HKUST (Guangzhou)
+  * Duties included: Developing immersive VR environments for cross-disciplinary design thinking course
+  * Supervisors: Prof. Pan Hui, Prof. Yuyang Wang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2021: Intern
+  * Hangzhou EZXR Advanced Technology Co., Ltd. (NetEase Research Institute)
+  * Duties included: Developing a location-based AR narrative game in Hangzhou
+  * Supervisor: Prof. Tongzhou Yu
+
 
 Publications
 ======
@@ -47,18 +35,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ Summer 2024: Teaching Assistant  
+  * HKUST (Guangzhou) & China Academy of Art – Foundations of Computational Media and Arts
+
+* Spring 2024: Teaching Assistant  
+  * HKUST (Guangzhou) – Social Media for Creatives
+
+* Fall 2023: Teaching Assistant  
+  * HKUST – Metaverse Cross-disciplinary Design Thinking
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
