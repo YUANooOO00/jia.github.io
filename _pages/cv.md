@@ -38,7 +38,7 @@ Publications
   
 Teaching
 ======
- Summer 2024: Teaching Assistant  
+* Summer 2024: Teaching Assistant  
   * HKUST (Guangzhou) & China Academy of Art – Foundations of Computational Media and Arts
 
 * Spring 2024: Teaching Assistant  
