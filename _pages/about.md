@@ -14,7 +14,7 @@ My research has been published at top international conferences including SIGGRA
 News
 ======
 - Jul 2025: So excited—my research work “Algorithmic Miner: Humanity in Service” will be presented at [SIGGRAPH 2025 (Vancouver)](https://s2025.siggraph.org/)! See you in the world of VR and AI! 🎉
-- Mar 2025: Best Papers - [Honorable Mention](https://ieeevr.org/2025/awards/conference-awards/) for our “Illuminating the Scene” paper at IEEE VR 2025, Los Angeles! ✨
+- Mar 2025: [Best Papers - Honorable Mention](https://ieeevr.org/2025/awards/conference-awards/) for our “Illuminating the Scene” paper at IEEE VR 2025, Los Angeles! ✨
 - Dec 2024: Double joy—two papers accepted to VINCI 2024 (Hsinchu) and [SIGGRAPH Asia 2024 (Tokyo)](https://asia.siggraph.org/2024/index.html)! 📝🌏
 - Jun 2024: My work was showcased at the 14th National Art Exhibition, [China Art Museum](https://artmuseumonline.org/art/art/index.html#page1/2), Shanghai. A dream come true to be part of this amazing event! 🖼️
 - Jan 2024: Joined the AI Hackathon at [Zhangjiang Science Hall](https://zjsciencehall.com/en/#/homepage), Shanghai—so much fun building with fellow creative minds! 🤖✨
