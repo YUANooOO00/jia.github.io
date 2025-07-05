@@ -13,7 +13,9 @@ I believe that the future of creative work and experience will emerge from the c
 
 News
 ======
-- 1
-- 2
-- 3
-
+- Jul 2025: So excited—my research work “Algorithmic Miner: Humanity in Service” will be presented at SIGGRAPH 2025 (Vancouver)! See you in the world of VR and AI! 🎉
+- Mar 2025: Best Papers - Honorable Mention for our “Illuminating the Scene” paper at IEEE VR 2025, Los Angeles! ✨
+- Dec 2024: Double joy—two papers accepted to VINCI 2024 (Hsinchu) and SIGGRAPH Asia 2024 (Tokyo)! 📝🌏
+- Jun 2024: My work was showcased at the 14th National Art Exhibition, China Art Museum, Shanghai. A dream come true to be part of this amazing event! 🖼️
+- Jan 2024: Joined the AI Hackathon at Zhangjiang Science Hall, Shanghai—so much fun building with fellow creative minds! 🤖✨
+- Nov 2023: Exhibited at the 3rd Young Artists Screening Exhibition, Citylight Art Museum, Shenzhen, and also joined Chinese CHI at Yayasan Tsinghua Southeast Asia, Indonesia. International adventure, unlocked! 🗺️
