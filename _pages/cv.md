@@ -51,7 +51,7 @@ Teaching
 Honors and Awards
 ======
 
-* Excellent Graduate & Graduation Creation Bronze Award  
+* Excellent Graduate & Graduation Creation Award  
   * China Academy of Art, 2023
 
 * Zhejiang Province Excellent Graduate  
