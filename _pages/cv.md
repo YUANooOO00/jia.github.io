@@ -20,18 +20,6 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
-Teaching
-======
-* Summer 2024: Teaching Assistant  
-  * HKUST (Guangzhou) & China Academy of Art – Foundations of Computational Media and Arts
-
-* Spring 2024: Teaching Assistant  
-  * HKUST (Guangzhou) – Social Media for Creatives
-
-* Fall 2023: Teaching Assistant  
-  * HKUST – Metaverse Cross-disciplinary Design Thinking
 
 
 Honors and Awards
