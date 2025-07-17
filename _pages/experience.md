@@ -10,3 +10,14 @@ Work experience
   * Hangzhou EZXR Advanced Technology Co., Ltd. (NetEase Research Institute)
   * Duties included: Developing a location-based AR narrative game in Hangzhou
   * Supervisor: Prof. Tongzhou Yu
+
+Teaching
+======
+* Summer 2024: Teaching Assistant  
+  * HKUST (Guangzhou) & China Academy of Art – Foundations of Computational Media and Arts
+
+* Spring 2024: Teaching Assistant  
+  * HKUST (Guangzhou) – Social Media for Creatives
+
+* Fall 2023: Teaching Assistant  
+  * HKUST – Metaverse Cross-disciplinary Design Thinking
