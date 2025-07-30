@@ -13,6 +13,9 @@ My research has been published at top international conferences including SIGGRA
 
 News
 ======
+
+- Oct 2025: Double happiness—our papers “Exploring Gaze Dynamics in VR Film Education” (ISMAR 2025, Daejeon) and “RemVerse” (IMWUT/UbiComp 2025, Espoo) are both accepted! So grateful to work with such a fantastic team! 📚🎉
+- Sep 2025: Excited to share—my artwork will be exhibited at [the Ars Electronica Campus Exhibition](https://cma.hkust-gz.edu.cn/experience-the-future-of-creativity-hkust-gz-computational-media-and-arts-showcases-student-innovations-at-ars-electronica-2025/) in Linz, Austria (Sep 3–7, 2025)! See you in Linz for more art and inspiration! 🎨✨
 - Jul 2025: So excited—my research work “Algorithmic Miner: Humanity in Service” will be presented at [SIGGRAPH 2025 (Vancouver)](https://s2025.siggraph.org/)! See you in the world of VR and AI! 🎉
 - Mar 2025: [Best Papers - Honorable Mention](https://ieeevr.org/2025/awards/conference-awards/) for our “Illuminating the Scene” paper at IEEE VR 2025, Los Angeles! ✨
 - Dec 2024: Double joy—two papers accepted to VINCI 2024 (Hsinchu) and [SIGGRAPH Asia 2024 (Tokyo)](https://asia.siggraph.org/2024/index.html)! 📝🌏
