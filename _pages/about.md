@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jia Sun, a PhD student at [HKUST(GZ)] (https://www.hkust-gz.edu.cn/) , supervised by [Pan Hui]（https://panhui.people.ust.hk/） and [James She] (https://smedia.hkust.edu.hk/james/). Previously, I earned an MPhil at HKUST(GZ) with Pan Hui and [David Yip] (https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=1). I hold a Bachelor’s in Innovation Design from the [China Academy of Art] (https://en.caa.edu.cn/).
+I’m Jia Sun, a PhD student at [HKUST(GZ)](https://www.hkust-gz.edu.cn/) , supervised by [Pan Hui](https://panhui.people.ust.hk/) and [James She](https://smedia.hkust.edu.hk/james/). Previously, I earned an MPhil at HKUST(GZ) with Pan Hui and [David Yip](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=1). I hold a Bachelor’s in Innovation Design from the [China Academy of Art](https://en.caa.edu.cn/).
 
 As a practice-based artist and researcher, I focus on human-computer interaction, extended reality (XR), and AI-driven immersive learning. My work integrates critical theory with creative practice, designing digital experiences for art, education, and cultural heritage. My research centers on digital human modeling, interactive installations, and the development of immersive environments.
 
